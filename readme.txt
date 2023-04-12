@@ -1,8 +1,4 @@
-Thank you for using our template!
+Il s'agit d'un site web sur le Covid-19 créé en utilisant HTML, CSS, JavaScript, Bootstrap et jQuery.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+//This template is made by Colorlib
